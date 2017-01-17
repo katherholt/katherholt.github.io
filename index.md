@@ -4,7 +4,7 @@ Nice finally to meet you, I've heard good things.
 
 ### Currently
 
-Working as a junior devloper at [Relay Labs](https://www.relaylabs.co).
+Working as a junior developer at [Relay Labs](https://www.relaylabs.co).
 
 ### Keep in Touch!
 
