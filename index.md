@@ -6,8 +6,8 @@ Currently calling Brisbane, Australia home.
 Doing design and web development for a communication technology startup called [Conpago](www.conpago.com.au) and [Devote Digital](www.devotedigital.com.au).
 
 ## Past
-Software Development Intern @ [Relay Labs](https://relaylabs.co/)
-Head Teacher @ [Code Camp](https://codecamp.com.au/)
+- Software Development Intern @ [Relay Labs](https://relaylabs.co/)
+- Head Teacher @ [Code Camp](https://codecamp.com.au/)
 
 ## Say Hi
 [Twitter](https://twitter.com/katyatherholt)
