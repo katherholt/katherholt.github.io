@@ -3,7 +3,7 @@ I help small businesses establish their digital prescence with cohesive branding
 Currently calling Brisbane, Australia home.
 
 ## Currently
-Doing design and web development for a communication technology startup called [Conpago](www.conpago.com.au) and [Devote Digital](www.devotedigital.com.au).
+Doing design and web development for a communication technology startup called [Conpago](www.conpago.com.au) and [Devote Digital](www.devotedigital.com.au). Open to opportunities with a full-time design position on collaborative team to further develop existing skills.
 
 ## Past
 - Software Development Intern @ [Relay Labs](https://relaylabs.co/)
