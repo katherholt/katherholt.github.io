@@ -3,10 +3,10 @@ body { margin: 60px auto; width: 70%; background-color: #093A3E; }
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+p, ul { font-size: 1.5em; line-height: 1.4em; color: #FCFAFA; }
 ul { list-style: none; }
 
-h1 { font-family: 'Source Serif Pro', serif; color: 1D7874;  }
+h1 { font-family: 'Source Serif Pro', serif; color: #1D7874;  }
 h2, h3, h4 { font-family: 'Open Sans', sans-serif; }
 h1 { font-size: 3em; font-color: #38618C;  }
 h2 { font-size: 2.7em; }
