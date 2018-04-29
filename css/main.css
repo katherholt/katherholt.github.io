@@ -1,17 +1,13 @@
 body { margin: 2em auto; width: 90%; background-color: #fff; }
 
-a { text-decoration: none; color: #999; }
+a { text-decoration: none; color: #9B9B9B; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #FCFAFA; }
+p, ul { font-size: 1.5em; line-height: 1.4em; color: #9B9B9B; }
 ul { list-style: none; }
 
 h1 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 5.5em; serif; color: #1D7874; }
-h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif', font-size: 3em; font-color: #38618C; }
-h1 { font-size: 3em;  }
-h2 { font-size: 2.7em; }
-h3 { font-size: 2.3em; }
-h4 { font-size: 1.9em; }
+h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 3em; font-color: #4A4A4A; }
 
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
