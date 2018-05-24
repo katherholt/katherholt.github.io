@@ -1,9 +1,9 @@
 body { margin: 2em auto; width: 90%; background-color: #fff; }
 
-a { text-decoration: none; color: #457B9D; }
+a { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; text-decoration: none; color: #457B9D; }
 a:hover { text-decoration: overline; }
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #A8DADC; }
+p, ul { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1.5em; line-height: 1.4em; color: #A8DADC; }
 ul { list-style: none; }
 
 h1 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 5em; serif; color: #1D3557; margin-bottom: 3em; }
