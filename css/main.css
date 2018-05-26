@@ -6,7 +6,7 @@ a:hover { text-decoration: overline; }
 p, ul { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1.5em; line-height: 1.4em; color: #A8DADC; }
 ul { list-style: none; }
 
-h1 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 5em; serif; color: #1D3557; margin-bottom: 2em; }
+h1 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 5em; serif; color: #1D3557; margin-bottom: 1.5em; }
 h2 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 3em; font-color: #1D3557; }
 h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 2em; font-color: #1D3557; }
 
