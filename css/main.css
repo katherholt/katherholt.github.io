@@ -13,7 +13,7 @@ h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 2em; font-c
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
-footer { border-top: 1em solid #F1FAEE; font-size: 1em; background-color: #fff; width: 150%; margin-left: -20em;}
+footer { font-size: 1em; background-color: #F1FAEE; width: 110%; }
 ul.footer { float: right;}
 
 /* Blog */
