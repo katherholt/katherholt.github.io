@@ -1,4 +1,4 @@
-body { margin: 2em auto; width: 90%; background-color: #fff; }
+body { margin: 1em auto; width: 90%; background-color: #fff; }
 
 a { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; text-decoration: none; color: #457B9D; }
 a:hover { text-decoration: overline; }
@@ -14,7 +14,7 @@ nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Ser
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { font-size: 1em; background-color: #F1FAEE; width: 110%; }
-ul.footer { float: right;}
+ul.footer { float: right; margin-right: 1em; }
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
