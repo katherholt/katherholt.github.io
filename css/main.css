@@ -3,8 +3,8 @@ body { margin: 1em auto; width: 90%; background-color: #fff; }
 a { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; text-decoration: none; color: #457B9D; }
 a:hover { text-decoration: overline; }
 
-p { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1.5em; line-height: 1.4em; color: #1D3557; }
-ul { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1.5em; line-height: 1.4em; list-style: none; }
+p { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1em; line-height: 1.4em; color: #1D3557; }
+ul { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1em; line-height: 1.4em; list-style: none; }
 
 h1 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 5em; serif; color: #1D3557; margin-bottom: 1.5em; }
 h2 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 3em; font-color: #1D3557; }
@@ -19,7 +19,7 @@ footer { font-size: 1em; background-color: #F1FAEE; width: 90%; }
 ul.footer { float: right; margin-right: 1em; }
 
 /* Blog */
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts { margin: 20px auto 40px; font-size: 1em; }
 ul.posts li { list-style: none; }
 
 /* CV */
