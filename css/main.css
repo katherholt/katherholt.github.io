@@ -3,7 +3,7 @@ body { margin: 1em auto; width: 90%; background-color: #fff; }
 a { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; text-decoration: none; color: #457B9D; }
 a:hover { text-decoration: overline; }
 
-p, ul { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1.5em; line-height: 1.4em; color: #A8DADC; }
+p, ul { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1.5em; line-height: 1.4em; color: #1D3557; }
 ul { list-style: none; }
 
 h1 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 5em; serif; color: #1D3557; margin-bottom: 1.5em; }
