@@ -1,0 +1,192 @@
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #fff;
+    width: 100vw;
+}
+
+body {
+    margin-left: 10%;
+    margin-right: 9%;
+    text-align: left;
+    color: #000;
+    display: block;
+}
+
+.margin {
+  width: 80%;
+  margin-top: 3%;
+}
+
+.landing {
+  padding-top: 5%;
+}
+
+.left {
+  float: left;
+  width: 60%;
+}
+
+
+//fonts
+
+
+.title {
+  font-family: 'Playfair Display', serif;
+  color: #000;
+  font-size: 4em;
+  margin: 0;
+}
+
+p {
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #000;
+}
+
+
+h5 {
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #000;
+  font-size: 2em;
+  margin: 0;
+}
+
+.title {
+  font-family: 'Playfair Display', serif;
+  color: #000;
+  font-size: 2em;
+  margin: 0;
+}
+
+.button {
+  border: 1.5px solid #000;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  width: 9.6em;
+}
+
+.about {
+  font-size: 1.5em;
+}
+
+a {
+  color: #000;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+.intro {
+  font-family: 'Playfair Display', serif;
+  font-size: 4em;
+  letter-spacing: 2px;
+  margin-bottom: 3%;
+  margin-top: -0.5em;
+}
+
+.mini-bio {
+  font-size: 1.5em;
+}
+
+.scroll {
+  padding-top: 2em;
+}
+
+.menu {
+  margin-top: 5em;
+}
+
+.contact {
+  padding-left: 0;
+  padding-bottom: 1em;
+}
+
+.facts {
+  padding-left: 0;
+  padding-bottom: 1em;
+}
+
+.folio {
+  float: left;
+  width: 100%;
+  height: auto;
+}
+
+li {
+  list-style-type: none;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 1.25em;
+}
+
+img.down {
+  max-width: 2em;
+  margin-top: 1em;
+  margin-left: 0.25em;
+  margin-bottom: 1em;
+}
+
+img.profile {
+  max-width: 100%;
+  min-width: 50%;
+  height: auto;
+  margin-left: 32%;
+}
+
+.right {
+  width: 40%;
+  float: right;
+}
+
+//cases
+
+p.details {
+  padding-top: 1em;
+  width: 70%;
+  font-size: 1em;
+}
+
+.case {
+  width: 120%;
+  background: #FFF;
+  height: auto;
+  padding: 0.5em;
+  margin-top: 2em;
+  border-radius: 0 0.5em 0.5em 0;
+}
+
+#a {
+  border-left: solid 0.5em #F9B4D2;
+  top: 100%;
+}
+
+#b {
+  border-left: solid 0.5em #E9F7F9;
+}
+
+#c {
+  border-left: solid 0.5em #F9B4D2;
+}
+
+#d {
+  border-left: solid 0.5em #E9F7F9;
+  margin-bottom: 2em;
+}
+
+footer {
+  background: #E9F7F9;
+  width: 100vw;
+  margin-left: -8em;
+  height: 3.5em;
+  float: left;
+}
+
+.leftfoot {
+  float: left;
+  padding-left: 1em;
+}
+
+.rightfoot {
+  float: right;
+  padding-right: 1em;
+}
