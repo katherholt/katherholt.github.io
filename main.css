@@ -155,6 +155,10 @@ p.details {
   border-radius: 0 0.5em 0.5em 0;
 }
 
+.case:hover {
+    border-left: solid 0.75em #000;
+}
+
 #a {
   border-left: solid 0.5em #000;
   top: 100%;
