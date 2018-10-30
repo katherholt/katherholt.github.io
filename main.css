@@ -157,9 +157,6 @@ p.details {
 
 #a {
   border-left: solid 0.5em #000;
-  border-left:hover {
-    background-color: yellow;
-}
   top: 100%;
 }
 
