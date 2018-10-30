@@ -156,20 +156,23 @@ p.details {
 }
 
 #a {
-  border-left: solid 0.5em #F9B4D2;
+  border-left: solid 0.5em #000;
+  border-left:hover {
+    background-color: yellow;
+}
   top: 100%;
 }
 
 #b {
-  border-left: solid 0.5em #E9F7F9;
+  border-left: solid 0.5em #000;
 }
 
 #c {
-  border-left: solid 0.5em #F9B4D2;
+  border-left: solid 0.5em #000;
 }
 
 #d {
-  border-left: solid 0.5em #E9F7F9;
+  border-left: solid 0.5em #000;
   margin-bottom: 2em;
 }
 
