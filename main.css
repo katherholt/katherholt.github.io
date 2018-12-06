@@ -35,27 +35,27 @@ body {
 
 
 .title {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Monda', sans-serif;
   color: #000;
   font-size: 4em;
   margin: 0;
 }
 
 p {
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #000;
 }
 
 
 h5 {
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #000;
   font-size: 2em;
   margin: 0;
 }
 
 .title {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Monda', sans-serif;
   color: #000;
   font-size: 2em;
   margin: 0;
@@ -74,11 +74,11 @@ h5 {
 
 a {
   color: #000;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .intro {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Monda', sans-serif;
   font-size: 4em;
   letter-spacing: 2px;
   margin-bottom: 3%;
@@ -115,8 +115,16 @@ a {
 
 li {
   list-style-type: none;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.25em;
+}
+
+.scroll {
+    text-align: center;
+}
+
+li.feet {
+  display: inline-block;  
 }
 
 img.down {
