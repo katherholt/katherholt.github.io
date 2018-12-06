@@ -27,19 +27,12 @@ body {
 
 .left {
   float: left;
-  width: 60%;
+  width: 80%;
 }
 
 
 //fonts
 
-
-.title {
-  font-family: 'Monda', sans-serif;
-  color: #000;
-  font-size: 4em;
-  margin: 0;
-}
 
 p {
   font-family: 'Roboto', sans-serif;
@@ -86,31 +79,11 @@ a {
 }
 
 .mini-bio {
-  font-size: 1.5em;
-}
-
-.scroll {
-  padding-top: 2em;
+  font-size: 1em;
 }
 
 .menu {
   margin-top: 5em;
-}
-
-.contact {
-  padding-left: 0;
-  padding-bottom: 1em;
-}
-
-.facts {
-  padding-left: 0;
-  padding-bottom: 1em;
-}
-
-.folio {
-  float: left;
-  width: 100%;
-  height: auto;
 }
 
 li {
@@ -119,66 +92,9 @@ li {
   font-size: 1.25em;
 }
 
-.scroll {
-    text-align: center;
-}
-
-li.feet {
-  display: inline-block;  
-}
-
-img.down {
-  max-width: 2em;
-  margin-top: 1em;
-  margin-left: 0.25em;
-  margin-bottom: 1em;
-}
-
-img.profile {
-  max-width: 100%;
-  min-width: 50%;
-  height: auto;
-  margin-left: 32%;
-}
-
 .right {
   width: 40%;
   float: right;
-}
-
-//cases
-
-p.details {
-  padding-top: 1em;
-  width: 70%;
-  font-size: 1em;
-}
-
-.case {
-  width: 120%;
-  background: #FFF;
-  height: auto;
-  padding: 0.5em;
-  margin-top: 2em;
-  border-radius: 0 0.5em 0.5em 0;
-}
-
-#a {
-  border-left: solid 0.5em #000;
-  top: 100%;
-}
-
-#b {
-  border-left: solid 0.5em #000;
-}
-
-#c {
-  border-left: solid 0.5em #000;
-}
-
-#d {
-  border-left: solid 0.5em #000;
-  margin-bottom: 2em;
 }
 
 footer {
