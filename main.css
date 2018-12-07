@@ -9,20 +9,22 @@ html {
 }
 
 body {
-    margin-left: 10%;
-    margin-right: 9%;
+    height: 100%;
+    margin: 0;
     text-align: left;
     color: #000;
     display: block;
 }
 
 .margin {
-  width: 80%;
-  margin-top: 3%;
+  min-height: 100%;
 }
 
 .landing {
-  padding-top: 5%;
+  padding: 20px;
+  padding-bottom: 50px;
+  margin-top: 3%;
+  width: 80%;
 }
 
 .left {
@@ -101,7 +103,8 @@ footer {
   background: #E9F7F9;
   width: 100vw;
   margin-left: -8em;
-  height: 3.5em;
+  height: 50px;
+  margin-top: -50px;
   float: left;
 }
 
