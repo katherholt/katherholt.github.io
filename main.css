@@ -1,119 +1,82 @@
-html {
-    height: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background: #fff;
-    width: 100vw;
+html, body {
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #FFF;
+  background-size: cover;
 }
 
-body {
-    height: 100%;
-    margin: 0;
-    text-align: left;
-    color: #000;
-    display: block;
+div.container {
+  text-align: left;
+  vertical-align: middle;
+  display: inline;
 }
 
-.margin {
-  min-height: 100%;
+div.menu {
+  margin-right: 10%;
 }
 
-.landing {
-  padding: 20px;
-  padding-bottom: 50px;
-  margin-top: 3%;
-  width: 80%;
+div.menu > ul > a {
+  margin: 10px;
 }
 
-.left {
-  float: left;
-  width: 80%;
+ul > a:hover {
+ color: #bdc3c7;
+ cursor: cell;
 }
 
-
-//fonts
-
-
-p {
-  font-family: 'Roboto', sans-serif;
-  color: #000;
-}
-
-
-h5 {
-  font-family: 'Roboto', sans-serif;
-  color: #000;
-  font-size: 2em;
-  margin: 0;
-}
-
-.title {
-  font-family: 'Monda', sans-serif;
-  color: #000;
-  font-size: 2em;
-  margin: 0;
-}
-
-.button {
-  border: 1.5px solid #000;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-  width: 9.6em;
-}
-
-.about {
-  font-size: 1.5em;
-}
-
-a {
-  color: #000;
-  font-family: 'Roboto', sans-serif;
-}
-
-.intro {
-  font-family: 'Monda', sans-serif;
-  font-size: 4em;
-  letter-spacing: 2px;
-  margin-bottom: 3%;
-  margin-top: -0.5em;
-}
-
-.mini-bio {
-  font-size: 1em;
-}
-
-.menu {
-  margin-top: 5em;
-}
-
-li {
-  list-style-type: none;
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.25em;
-}
-
-.right {
-  width: 40%;
+div.menu > ul {
+  list-style: none;
   float: right;
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+  font-size: 18px;
+}
+
+
+div.container > * {
+  color: #000;
+  padding-top: 1em;
+}
+
+div.container > h2 {
+  font-size: 60px;
+  font-family: 'Monda', serif;
+  letter-spacing: 3px;
+  margin-bottom: -0.4em;
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
+div.container > p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  margin-left: 55px;
+  margin-right: 10px;
 }
 
 footer {
-  background: #E9F7F9;
-  width: 100vw;
-  margin-left: -8em;
-  height: 50px;
-  margin-top: -50px;
-  float: left;
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 9999999;
 }
 
-.leftfoot {
-  float: left;
-  padding-left: 1em;
+footer > * {
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+  text-decoration: none;
 }
 
-.rightfoot {
-  float: right;
-  padding-right: 1em;
+footer {
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+  font-size: 18px;
+}
+
+footer > a:hover {
+  color: #bdc3c7;
+  cursor: cell;
 }
