@@ -43,7 +43,6 @@ div.container > h2 {
   font-size: 60px;
   font-family: 'Monda', serif;
   letter-spacing: 3px;
-  margin-bottom: -0.4em;
   margin-left: 50px;
   margin-right: 10px;
 }
@@ -51,15 +50,15 @@ div.container > h2 {
 div.container > p {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
+  margin-top: -50px;
   margin-left: 55px;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 footer {
-  color: #000;
-  font-size: 18px;
   position: absolute;
-  bottom: 15px;
+  font-size: 18px;
+  bottom: 2px;
   left: 0;
   right: 0;
   text-align: center;
@@ -72,7 +71,12 @@ footer > * {
   text-decoration: none;
 }
 
+p.credits {
+  font-size: 12px;
+}
+
 footer > a:hover {
   color: #bdc3c7;
   cursor: cell;
 }
+
