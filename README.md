@@ -1,8 +1,15 @@
-# About this site
-## katherholt.github.io
+# Hello hello!
+## A bit about katherholt.design
 
-This is a simple portfolio site, designed and created by me! 
-It's (very much) not responsive yet but I'd love any feedback on the visuals and content. 
+Just a simple portfolio site, designed and created by me! A total work in progress and I'd love any feedback. 
+
+### Todos
+~~basic layout~~
+~~link socials~~
+add CV and portfolio
+post case studies
+make it more responsive!
+
 End of week goal is to add media queries, case studies and some fun little interactions with CSS.
 
 #### Thanks friends!
