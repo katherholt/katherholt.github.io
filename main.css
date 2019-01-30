@@ -64,6 +64,11 @@ div.container > p {
   margin-right: 10%;
 }
 
+div.container > li > p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
 footer {
   position: absolute;
   font-size: 18px;
