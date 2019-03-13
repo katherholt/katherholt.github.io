@@ -1,9 +1,7 @@
-# Hello hello!
-## A bit about katherholt.design
+# Katy Atherholt Design Portfolio - Work in Progress
 
-Just a simple portfolio site, designed and created by me! A total work in progress and I'd love any feedback. 
+A Masonry-powered grid layout with a motion hover effect on the grid items and a scrollable content view.
 
-### Still todo
-~~basic layout~~,~~link socials~~, add CV and portfolio, post case studies, CSS interactions and make it more responsive!
+## Credits
 
-#### Thanks friends!
+- Grid Layout [© Codrops 2018](http://www.codrops.com)
