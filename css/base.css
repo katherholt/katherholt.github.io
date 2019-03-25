@@ -6,13 +6,13 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 
 body {
-	--color-text: #4800d4;
+	--color-text: #3454D1;
     --color-bg: #e8e8e8;
-    --color-link: #ec1752;
-    --color-link-hover: #eb1851;
+    --color-link: #41BAAC;
+    --color-link-hover: #41BABC;
     --color-info: #272526;
     --grid-item-bg: #f1f1f1;
-    --color-close: #ec1752;
+    --color-close: #41BAAC;
 	font-family: Futura, "futura-pt", sans-serif;
 	min-height: 100vh;
 	color: #57585c;
@@ -124,6 +124,20 @@ main {
 	padding: 0.25em;
 }
 
+.social-icons {
+	display: block;
+	margin: 0.15em 0.15em 0.15em 0.5em;
+	padding: 0.25em;
+}
+
+.social-icons svg path {
+	fill: var(--color-link);
+}
+
+.social-icons svg:hover path {
+	fill: var(--color-text);
+}
+
 .title {
 	text-align: center;
 }
@@ -139,6 +153,18 @@ main {
 	position: relative;
 	margin: 0;
 }
+
+/* .hero {
+	padding-top:0.8em;
+	font-size: 7em !important;
+	font-weight: bold;
+}
+.hero-sub {
+	font-style: italic;
+	font-size: 1.5em;
+	color: #ec1752;
+	margin-top: -3.5em;
+} */
 
 /* Top Navigation Style */
 .codrops-links {
@@ -160,6 +186,13 @@ main {
 	max-width: 1100px;
 	margin: 0 auto;
 	padding: 6rem 1rem 0;
+}
+
+.footer-low {
+		padding-left: 40%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #FFF;
 }
 
 .grid-wrap--hidden {
@@ -313,7 +346,7 @@ main {
 
 .content__item-subtitle {
 	text-align: center;
-	font-size: 1.25rem;
+	font-size: 1rem;
 	font-weight: normal;
 	margin: 3rem auto;
 }
@@ -322,6 +355,35 @@ main {
 	text-align: justify;
 	max-width: 800px;
 	margin: 0 auto;
+}
+
+
+.content__item-text-single {
+    text-align: left;
+    max-width: 700px;
+    margin: 0 auto;
+    --x-height-multiplier: 0.375;
+    --baseline-multiplier: 0.17;
+    /*font-family: Georgia,Cambria,"Times New Roman",Times,serif;*/
+    letter-spacing: .01rem;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.58;
+	letter-spacing: -.003em;
+	color: rgba(0,0,0,.84);
+}
+
+
+.subheading {
+	font-weight: 600;
+	color: #4800d4;
+}
+
+.about-statement, .skills-statement {
+	color: rgba(0,0,0,.84);
+	text-align: left;
+	letter-spacing: -.003em;
 }
 
 .content__item-text p {
@@ -417,7 +479,7 @@ main {
 		font-size: 3vw;
 	}
 	.content__item-text {
-  		column-count: 2;
+  		column-count: 1;
   		column-gap: 20px;
   	}
 	.content__item-img {
